@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Python, Java, C++, SQL  
+**Languages:** Python, Java, C++, SQL, HTML, CSS, JavaScript  
 **Frameworks & Libraries:** FastAPI, TensorFlow/Keras, scikit-learn, OpenCV, Unreal Engine  
 **Tools & Platforms:** Git, GitHub, Streamlit, Render, Vercel, PyCharm, Jupyter Notebook  
 **Specialties:**  
@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects  
 
-### 🌿 [Plant Disease Detection](https://github.com/ArrushTandon/Plant_Disease_Detection)  
+### 🌿 [Plant Disease Detection](https://github.com/ArrushTandon/Plant_Disease_Prediction_Deployment)  
 > CNN + LBP + PCA + EHO-powered plant leaf disease classifier, deployed via Render(FastAPI) and Vercel.  
 **Tech:** Python, TensorFlow, scikit-learn, OpenCV, Render, Vercel  
 
-### 🗣️ [Domain-Specific Speech Transcription (DSST)](https://github.com/ArrushTandon/Domain_Specific_Speech_Transcription)  
+### 🗣️ [Domain-Specific Speech Transcription (DSST)](https://github.com/ArrushTandon/DSST_Streamlit)  
 > Whisper-based ASR system for specialized domains with CER evaluation and NLP post-processing.  
 **Tech:** Python, OpenAI Whisper, Streamlit  
 
