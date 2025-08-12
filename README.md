@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 📌 Featured Projects  
 
 ### 🌿 [Plant Disease Detection](https://github.com/ArrushTandon/Plant_Disease_Detection)  
-> CNN + LBP + PCA + EHO-powered plant leaf disease classifier with cure suggestions, deployed via FastAPI.  
+> CNN + LBP + PCA + EHO-powered plant leaf disease classifier, deployed via Render(FastAPI) and Vercel.  
 **Tech:** Python, TensorFlow, scikit-learn, OpenCV, Render, Vercel  
 
 ### 🗣️ [Domain-Specific Speech Transcription (DSST)](https://github.com/ArrushTandon/Domain_Specific_Speech_Transcription)  
